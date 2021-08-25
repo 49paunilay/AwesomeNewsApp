@@ -1,6 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import DataList from './Components/DataList';
+
+//25a911c33c9747ad965eae6348f799f8
 
 export default function App() {
   return (
